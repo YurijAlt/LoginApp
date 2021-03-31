@@ -17,7 +17,4 @@ class WelcomeViewController: UIViewController {
         super.viewDidLoad()
         userNameLabel.text = nameLabelText
     }
-    
-    
-    
 }
